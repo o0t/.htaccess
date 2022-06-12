@@ -1,13 +1,13 @@
 
-	# .htaccess
+ # .htaccess
 
 
-	# htaccess Permissions file 
+# htaccess Permissions file 
 
 
-	## [ - ] Localhost
-	## [ - ] server web 
-	## [ - ] Laravel App 
+## [ - ] Localhost
+## [ - ] server web 
+## [ - ] Laravel App 
 
 
 
